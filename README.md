@@ -2,5 +2,5 @@
 A template for Cardiff University Beamer LaTeX presentations. Based on the Metropolis theme.
 
 ## Dependencies:
-[Metropolis Beamer theme](https://github.com/matze/mtheme)
+[Metropolis Beamer theme](https://github.com/matze/mtheme)<br>
 [Cardiff University logo PDF](https://github.com/RyanAPhys/)
