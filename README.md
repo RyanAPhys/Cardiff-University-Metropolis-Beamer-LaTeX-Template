@@ -13,4 +13,4 @@ See full template [here](https://github.com/RyanAPhys/Cardiff-University-Metropo
 <IMG SRC="./Template.png">
 
 ## Note:
-This could be very easily adapted to a general Beamer template. The only Metropolis dependent component is the progress bar.
+This could be very easily adapted into a general Beamer template. The only Metropolis dependent component is the progress bar.
