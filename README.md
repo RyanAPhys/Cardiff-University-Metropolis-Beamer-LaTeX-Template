@@ -11,3 +11,6 @@ Once you've got Metropolis installed (it's included in [Overleaf](https://overle
 ## Template:
 See full template [here](https://github.com/RyanAPhys/Cardiff-University-Metropolis-Beamer-LaTeX-Template/blob/dff2fa52fcab595743b106e0464577319245bd3f/Cardiff_University_Metropolis_Beamer_Theme.pdf).<br>
 <IMG SRC="./Template.png">
+
+## Note:
+This could be very easily adapted to a general Beamer template. The only Metropolis dependent component is the progress bar.
